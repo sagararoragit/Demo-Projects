@@ -1,3 +1,4 @@
 # Demo-Projects
 This is my first Git Repository.
-Author 00 Sagar Arora
+<br>
+Author -- Sagar Arora
